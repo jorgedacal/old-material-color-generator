@@ -1,12 +1,11 @@
 "use strict";
 
-// Build app
+// Build app (removed 'angularSpectrumColorpicker',)
 var mcgApp = angular.module('mcgApp',
     [
         'ngRoute',
         'ngMaterial',
         'ngAnimate',
-        'angularSpectrumColorpicker',
         'ngMdIcons',
         'angular-toArrayFilter',
         'ngSanitize',
