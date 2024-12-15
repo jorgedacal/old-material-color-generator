@@ -99,7 +99,7 @@ Check out the [Live Demo][live-demo]
 
 
 **index.html:**
-
+<!---
 ```html
 <div ng-app="app">
   <div ng:controller="Main">
@@ -111,6 +111,7 @@ Check out the [Live Demo][live-demo]
   </div>
 </div>
 ```
+-->
 
 **app.js**
 
