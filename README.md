@@ -1,3 +1,12 @@
+# Description
+Fixed old material color generator by mcg, thanks for your great job.
+
+# To run it locally
+```
+npm install -g http-server
+http-server
+```
+
 # Material Design Color Generator
 ![GitHub Last Commit](https://img.shields.io/github/last-commit/mbitson/mcg?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/mbitson/mcg?style=flat-square)
